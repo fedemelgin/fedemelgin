@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Federico Melgin</h1>
+<h1 align="center">HOLA 👋, Soy Federico Melgin</h1>
 <h3 align="center">Estudiante Ingenieria en Sitemas de Informacion UTN</h3>
 <h3 align="left">Redes Sociales:</h3>
 <p align="left">
