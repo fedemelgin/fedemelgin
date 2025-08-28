@@ -6,42 +6,18 @@
 </p>
 
 <h3 align="left">Lenguajes</h3>
+### Lenguajes y Tecnologías:
 <p align="left">
-  <!-- JS -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 1052 1052">
-    <path fill="#f0db4f" d="M0 0h1052v1052H0z"/>
-    <path d="..." fill="#323330"/>
-  </svg>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="40" height="40" />
 
-  <!-- HTML -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 452 520">
-    <path fill="#e34f26" d="M41 460L0 0h451l-41 460-185 52"/>
-    <path d="..."/>
-  </svg>
 
-  <!-- TS -->
-  <svg viewBox="0 0 256 256" width="46" height="46" xmlns="http://www.w3.org/2000/svg">
-    <path d="..." fill="#3178C6"/>
-  </svg>
-
-  <!-- CSS -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 512 512">
-    <path d="..." fill="#264de4"/>
-  </svg>
-
-  <!-- Node.js -->
-  <svg viewBox="0 0 256 292" xmlns="http://www.w3.org/2000/svg" width="46" height="46">
-    <path d="..." fill="url(#nodejs__a)"/>
-  </svg>
-
-  <!-- React -->
-  <svg width="46" height="46" viewBox="0 0 569 512" xmlns="http://www.w3.org/2000/svg">
-    <path d="..." fill="#58C4DC"/>
-  </svg>
-
-  <!-- Next.js -->
-  <svg width="46" height="46" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
-    <path d="..."/>
-  </svg>
 </p>
 
