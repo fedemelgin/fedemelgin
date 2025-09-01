@@ -6,12 +6,9 @@
 
 ## 🌐 Redes Sociales
 
-<p align="center">
+<p>
   <a href="https://instagram.com/fedemelgin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/fedemelgin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/fedemelgin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -23,7 +20,7 @@
 ## 💻 Lenguajes y Tecnologías
 
 ### Lenguajes / Frameworks
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -36,7 +33,7 @@
 </p>
 
 ### Otras Tecnologías
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
@@ -55,8 +52,7 @@ Mi portafolio personal, donde muestro algunos de mis proyectos más destacados, 
 
 ## 📫 Contacto
 
-- **Instagram:** [@fedemelgin](https://instagram.com/fedemelgin)  
-- **GitHub:** [fedemelgin](https://github.com/fedemelgin)  
+- **Instagram:** [@fedemelgin](https://instagram.com/fedemelgin)
 - **LinkedIn:** [Federico Melgin](https://www.linkedin.com/in/fedemelgin)
 
 ---
